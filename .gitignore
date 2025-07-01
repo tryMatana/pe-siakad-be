@@ -1,0 +1,25 @@
+# Virtual environment
+env/
+venv/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*.egg-info/
+
+# DB & secret files
+*.sqlite3
+*.env
+*.log
+
+# VS Code settings
+.vscode/
+
+# Django static/media
+staticfiles/
+static/
+media/
+
+# macOS/Windows system files
+.DS_Store
+Thumbs.db
