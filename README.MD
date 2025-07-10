@@ -1,3 +1,6 @@
+this project be from repo : https://github.com/tryMatana/pe-siakad-be
+db connect to : supabase
+
 cd ..
 env-beta-be\Scripts\activate
 cd pe_siakad_backend
