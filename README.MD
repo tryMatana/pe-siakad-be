@@ -1,6 +1,6 @@
 cd ..
 env-beta-be\Scripts\activate
-cd beta_siakad_backend
+cd pe_siakad_backend
 pip install -r requirements.txt
 
 python manage.py makemigrations users
